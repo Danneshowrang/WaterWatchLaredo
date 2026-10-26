@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Keep the drop and ripple inside the adaptive icon's central safe area. -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,27 C50,34 39,44 39,53 C39,73 69,73 69,53 C69,44 58,34 54,27 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M35,72 C43,78 65,78 73,72" />
+</vector>
